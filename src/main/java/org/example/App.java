@@ -7,4 +7,6 @@ public class App
     {
         System.out.println( "Hello, Насанович Даниил!" );
     }
+
+
 }
